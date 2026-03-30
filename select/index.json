@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "冒険ズンドコドン!",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-30T11:52:17.612987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冒険ズンドコドン!",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_冒険ズンドコドン!_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冒険ズンドコドン!",
+      "artist": "Franchouchou",
+      "has_synced": true,
+      "path": "select/02_冒険ズンドコドン!_Franchouchou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冒険ズンドコドン！",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/03_冒険ズンドコドン!_フランシュシュ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冒険ズンドコドン!",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_冒険ズンドコドン!_フランシュシュ.txt"
+    }
+  ]
+}
